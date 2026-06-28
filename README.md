@@ -1,4 +1,4 @@
-# Walmart_Superstore_Sales_Analysis
+# Walmart_Superstore_Sales_And_Profit_Analysis
 # 📊 Walmart Sales & Profit Dashboard
 
 ## 1. Project Title / Headline
